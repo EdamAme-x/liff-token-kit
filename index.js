@@ -9,6 +9,10 @@ liff.init({
         {
             type: "text",
             text: liff.getAccessToken()
+        },
+         {
+            type: "text",
+            text: "ツールは移行しました。 https://line.naver.jp/R/app/2001110580-p8w3dBZq" + "\n あと @amex2189も良かったらフォローして()"
         } 
     ])
 
